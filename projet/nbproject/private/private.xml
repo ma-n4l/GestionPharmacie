@@ -3,13 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Manal/Desktop/GestionPharmacie/src/model/Medicament.java</file>
             <file>file:/C:/Users/Manal/Desktop/GestionPharmacie/src/vue/MedicamentController.java</file>
-            <file>file:/C:/Users/Manal/Desktop/GestionPharmacie/src/util/HibernateUtil.java</file>
-            <file>file:/C:/Users/Manal/Desktop/GestionPharmacie/src/service/MedicamentService.java</file>
             <file>file:/C:/Users/Manal/Desktop/GestionPharmacie/src/gestionpharmacie/GestionPharmacie.java</file>
             <file>file:/C:/Users/Manal/Desktop/GestionPharmacie/src/vue/medicament.xml</file>
-            <file>file:/C:/Users/Manal/Desktop/GestionPharmacie/src/hibernate.cfg.xml</file>
         </group>
     </open-files>
 </project-private>
